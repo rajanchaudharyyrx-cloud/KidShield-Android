@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kid Shield</string>
+    <string name="accessibility_service_label">Kid Shield Accessibility</string>
+    <string name="accessibility_service_description">Required for app monitoring and blocking</string>
+    <string name="notification_listener_label">Kid Shield Notifications</string>
+    <string name="notification_listener_description">Required for reading notifications</string>
+    <string name="channel_name">Kid Shield Service</string>
+    <string name="channel_description">Background monitoring service</string>
+    <string name="service_notification_title">Kid Shield is Active</string>
+    <string name="service_notification_text">Monitoring device for parent</string>
+    <string name="enter_pairing_code">Enter Pairing Code</string>
+    <string name="pair">Pair</string>
+    <string name="pairing_code_hint">8-digit code</string>
+    <string name="device_connected">Device Connected</string>
+    <string name="parent_connected">Parent Connected</string>
+    <string name="last_sync">Last Sync</string>
+    <string name="battery">Battery</string>
+    <string name="internet_status">Internet Status</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="screen_time_limit">Screen Time Limit Reached</string>
+    <string name="app_blocked">This app has been blocked by Parent</string>
+    <string name="syncing">Syncing...</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="lost_mode_title">Device Lost</string>
+    <string name="lost_mode_message">This device is in lost mode. Contact parent.</string>
+</resources>
